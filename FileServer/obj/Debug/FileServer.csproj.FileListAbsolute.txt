@@ -1,0 +1,8 @@
+F:\temp\SupportingDocExplorer\FileServer\bin\Debug\FileServer.exe.config
+F:\temp\SupportingDocExplorer\FileServer\bin\Debug\FileServer.exe
+F:\temp\SupportingDocExplorer\FileServer\bin\Debug\FileServer.pdb
+F:\temp\SupportingDocExplorer\FileServer\obj\Debug\FileServer.csproj.AssemblyReference.cache
+F:\temp\SupportingDocExplorer\FileServer\obj\Debug\FileServer.csproj.SuggestedBindingRedirects.cache
+F:\temp\SupportingDocExplorer\FileServer\obj\Debug\FileServer.csproj.CoreCompileInputs.cache
+F:\temp\SupportingDocExplorer\FileServer\obj\Debug\FileServer.exe
+F:\temp\SupportingDocExplorer\FileServer\obj\Debug\FileServer.pdb

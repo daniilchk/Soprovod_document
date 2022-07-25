@@ -1,0 +1,15 @@
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.csproj.AssemblyReference.cache
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.csproj.SuggestedBindingRedirects.cache
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.View.MainForm.resources
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.Properties.Resources.resources
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.csproj.GenerateResource.cache
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.csproj.CoreCompileInputs.cache
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\bin\Debug\SupportingDocExplorer.exe.config
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\bin\Debug\SupportingDocExplorer.exe
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\bin\Debug\SupportingDocExplorer.pdb
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.exe
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.pdb
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.View.AddProjectForm.resources
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.View.EditProject.resources
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.View.AddDocumentForm.resources
+F:\temp\SupportingDocExplorer\SupportingDocExplorer\obj\Debug\SupportingDocExplorer.View.ProgressForm.resources
